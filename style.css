@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header {
+	
+}
+.logo {
+	font-size: 40px;
+	line-height: 95px;
+    color: #1c375b;
+}
+.menu-bar{
+    
+}
+.menu-bar ul{
+
+}
+.menu-bar ul li {
+	display: inline-block;
+	list-style: none;
+	line-height: 90px;
+}
+.menu-bar ul li a {
+	text-decoration: none;
+	color:#1c375b;
+	font-size: 22px;
+	padding: 1px;
+	margin-left: 29px;
+}
+.servise{
+    background: #000;
+}
+.col{
+    background: #000;
+    color: #fff;
+}
